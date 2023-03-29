@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-29T18:17:01 SAST" name="Default suite" finished-at="2023-03-29T18:19:33 SAST" duration-ms="151426">
+    <groups>
+    </groups>
+    <test started-at="2023-03-29T18:17:01 SAST" name="Default test" finished-at="2023-03-29T18:19:33 SAST" duration-ms="151426">
+      <class name="testCases.TC01_E2E_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC01_E2E_Test@2794eab6]" started-at="2023-03-29T18:17:01 SAST" name="setUp" finished-at="2023-03-29T18:19:01 SAST" duration-ms="119481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:testCases.TC01_E2E_Test@2794eab6]" started-at="2023-03-29T18:19:01 SAST" name="loginTest" finished-at="2023-03-29T18:19:25 SAST" duration-ms="24224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="tearDown()[pri:0, instance:testCases.TC01_E2E_Test@2794eab6]" started-at="2023-03-29T18:19:25 SAST" name="tearDown" finished-at="2023-03-29T18:19:33 SAST" duration-ms="7295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC01_E2E_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
